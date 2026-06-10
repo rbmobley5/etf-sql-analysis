@@ -18,10 +18,9 @@ a broad market selloff, and a strong equity recovery.
 
 ## Figures
 
-![Indexed ETF Performance](figures/indexed_performance.png)
-![Rolling 30-Day Volatility](figures/rolling_volatility.png)
-![Annual Returns by ETF](figures/annual_returns.png)
-
+![Indexed ETF Performance](etf-sql-R/figures/indexed_performance.png)
+![Rolling 30-Day Volatility](etf-sql-R/figures/rolling_volatility.png)
+![Annual Returns by ETF](etf-sql-R/figures/annual_returns.png)
 ## Methods
 
 - **Data:** Daily OHLCV pricing data pulled via `yfinance` for 2021–2024 (~1,004 
